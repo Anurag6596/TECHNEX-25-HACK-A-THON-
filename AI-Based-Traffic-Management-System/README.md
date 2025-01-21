@@ -5,12 +5,6 @@ An AI based traffic management system with real-time monitoring
 
 The Smart Adaptive Traffic Management System leverages AI and computer vision to optimize traffic flow at intersections. This system analyzes vehicle counts from video feeds, processes the data using machine learning models, and adjusts traffic signal timings to improve traffic flow.
 
-## 📸 Screenshots
-
-![1](screenshots/1.png)<br/><br/>
-![2](screenshots/2.png)<br/><br/>
-![3](screenshots/3.png)
-
 
 ## ✨ Features
 - Vehicle Detection: Uses YOLOv4 for real-time vehicle detection from video feeds.
@@ -32,7 +26,7 @@ The Smart Adaptive Traffic Management System leverages AI and computer vision to
 Clone the repository:
 
 ```bash
-git clone https://github.com/ashish0kumar/AI-Based-Traffic-Management.git
+git https://github.com/ansh-dulewale/TECHNEX-25-HACK-A-THON-.git
 cd AI-Based-Traffic-Management
 ```
 
